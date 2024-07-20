@@ -6,22 +6,22 @@ const skills = [
   {
     skill: "HTML+CSS",
     level: "advanced",
-    color: "008080",
+    color: "#008080",
   },
   {
     skill: "JavaScript",
     level: "intermediate",
-    color: "808080",
+    color: "#808080",
   },
   {
     skill: "Java",
     level: "intermediate",
-    color: "FF00FF",
+    color: "#FF00FF",
   },
   {
     skill: "Web Development",
     level: "beginner",
-    color: "C0C0C0",
+    color: "#C0C0C0",
   },
 ];
 
